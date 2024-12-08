@@ -17,7 +17,7 @@ title: ASUS ROG Ally / Ally X
 
 | Feature | Notes |
 | -- | -- |
-| <no-wrap>:material-harddisk: Storage</no-wrap> | SteamFork can be run from an SD Card, USB Drive or installed directly to the internal NVME. <br> When installed directly to the NVME; an SD Card can be used for game storage. |
+| <no-wrap>:material-harddisk: Storage</no-wrap> | SteamFork can be run from a USB Drive or installed directly to the internal NVME. <br> When installed directly to the NVME; an SD Card can be used for game storage. |
 | <no-wrap>:material-wifi: Wifi</no-wrap> | Can be turned on in Steam OS under `Main Menu` > `Network`. |
 | <no-wrap>:simple-bluetooth: Bluetooth</no-wrap> | Supports bluetooth audio and controllers .|
 | <no-wrap>:material-fan: Fan</no-wrap> | Managed by system firmware. |
@@ -45,7 +45,7 @@ Download the latest `AMD64` version of SteamFork from the button below and follo
 
 ### Booting from an external drive (USB or SD Card)
 
-To boot SteamFork from an external drive, hold <kbd>:material-power: Power</kbd> until the device powers on.
+To boot SteamFork from a USB drive, hold <kbd>:material-power: Power</kbd> until the device powers on.
 Release <kbd>:material-power: Power</kbd> and repeatedly tap <kbd>:material-minus: Volume Down</kbd> until the `Bios Utility` appears.
 
 Using the <kbd>:material-gamepad-round: D-pad</kbd> and <kbd>:material-gamepad-circle-down: A</kbd> or the touchscreen, select `Boot Menu` and select the storage device with SteamFork to boot the distribution.
