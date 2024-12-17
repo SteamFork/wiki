@@ -11,8 +11,8 @@ title: MSI Claw A1M
 ![](../../_inc/images/devices/msi-claw.png){ .off-glb }
 
 !!! warning
-    Support for this device is still a work in progress. Expect bugs or incomplete/missing features as support is being added.
-    Refer to the [Known Issues](#known-issues) section for more information.
+    This device is currently unsponsored.
+    Information may be out of date or incorrect.
 
 ## Features
 

@@ -77,10 +77,8 @@ nav:
       - Code of Conduct: contribute/code-of-conduct.md
       - Build: contribute/build.md
       - Quirks: contribute/quirks.md
-    - Devices:
+    - Sponsored Devices:
       - devices/index.md
-      - Anbernic:
-        - Win600: devices/anbernic/win600.md
       - ASUS:
         - ROG Ally / Ally X: devices/asus/rog-ally.md
       - AYANEO:
@@ -92,5 +90,3 @@ nav:
         - Loki Max: devices/ayn/loki-max.md
       - GPD:
         - Win 4 (AMD 6800U): devices/gpd/win4-6800u.md
-      - MSI:
-        - Claw A1M: devices/msi/claw-a1m.md
