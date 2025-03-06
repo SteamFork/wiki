@@ -36,9 +36,7 @@ title: AYANEO Flip DS
 | ++"Aya"++ | <kbd>:material-microsoft-xbox: Guide</kbd> <no-wrap>(`Steam Menu`)</no-wrap> |
 | <kbd>:material-equal:</kbd> | <no-wrap><kbd>:material-microsoft-xbox: Guide</kbd> + <kbd>:material-gamepad-circle-down: A</kbd></no-wrap> <no-wrap>(`Quick Access Menu`)</no-wrap> |
 | <kbd>:material-dots-horizontal:</kbd> | <kbd>:material-microsoft-xbox: Guide</kbd> <no-wrap>(`Steam Menu`)</no-wrap> |
-| <kbd>:material-picture-in-picture-bottom-right:</kbd> | <no-wrap><kbd>:material-microsoft-xbox: Guide</kbd> + <kbd>:material-gamepad-circle-left: X</kbd></no-wrap> <no-wrap>(`Show Keyboard`)</no-wrap> |
-| <kbd>:material-menu:</kbd> | ++"Start"++ |
-| <kbd>:material-dock-window:</kbd> | ++"Select"++ |
+| <kbd>:material-picture-in-picture-bottom-right:</kbd> | <no-wrap><kbd>:material-microsoft-xbox: Guide</kbd> + <kbd>:material-gamepad-circle-left: X</kbd></no-wrap> <no-wrap>(`On-Screen Keyboard`)</no-wrap> |
 | ++"LC"++ | ++"L4"++ |
 | ++"RC"++ | ++"R4"++ |
 
