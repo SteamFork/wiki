@@ -22,7 +22,7 @@ title: AYANEO Flip DS
 
 | Feature | Notes |
 | -- | -- |
-| <no-wrap>:material-harddisk: Storage</no-wrap> | SteamFork can be run from a USB Drive or installed directly to the internal NVME. 
+| <no-wrap>:material-harddisk: Storage</no-wrap> | SteamFork can be run from a USB Drive or installed directly to the internal NVME.
 | <no-wrap>:material-wifi: Wifi</no-wrap> | Can be turned on in Steam OS under `Main Menu` > `Network Settings`. |
 | <no-wrap>:simple-bluetooth: Bluetooth</no-wrap> | Supports bluetooth audio and controllers. |
 | <no-wrap>:material-fan: Fan</no-wrap> | Controlled by system firmware. |
@@ -35,6 +35,10 @@ title: AYANEO Flip DS
 | -- | -- |
 | ++"Aya"++ | <kbd>:material-microsoft-xbox: Guide</kbd> <no-wrap>(`Steam Menu`)</no-wrap> |
 | <kbd>:material-equal:</kbd> | <no-wrap><kbd>:material-microsoft-xbox: Guide</kbd> + <kbd>:material-gamepad-circle-down: A</kbd></no-wrap> <no-wrap>(`Quick Access Menu`)</no-wrap> |
+| <kbd>:material-dots-horizontal:</kbd> | <kbd>:material-microsoft-xbox: Guide</kbd> <no-wrap>(`Steam Menu`)</no-wrap> |
+| <kbd>:material-picture-in-picture-bottom-right:</kbd> | <no-wrap><kbd>:material-microsoft-xbox: Guide</kbd> + <kbd>:material-gamepad-circle-left: X</kbd></no-wrap> <no-wrap>(`Show Keyboard`)</no-wrap> |
+| <kbd>:material-menu:</kbd> | ++"Start"++ |
+| <kbd>:material-dock-window:</kbd> | ++"Select"++ |
 | ++"LC"++ | ++"L4"++ |
 | ++"RC"++ | ++"R4"++ |
 
@@ -49,7 +53,7 @@ Download the latest `AMD64` version of SteamFork from the button below and follo
 
 ### Known Issues
 
-* Touch input does not work on the upper display.
+* Bottom display only works in Desktop mode.
 
 ### Booting from an external drive (USB or SD Card)
 
